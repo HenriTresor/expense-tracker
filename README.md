@@ -67,7 +67,7 @@ A mobile application developed using **React Native + Expo** to help users manag
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-org/finance-tracker-abcd.git
+   git clone https://github.com/henritresor/finance-tracker-abcd.git
    cd finance-tracker-abcd
    ```
 2. Install dependencies
